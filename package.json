@@ -1,0 +1,10 @@
+{
+  "name": "nyromodal",
+  "version": "1.0.0",
+  "description": "nyroModal jQuery Plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/25th-floor/nyroModal.git"
+  },
+  "author": "https://github.com/nyroDev"
+}
